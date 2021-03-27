@@ -277,8 +277,8 @@ gotoxy(35,14);
 cout<<"BILLING";
 gotoxy(35,17);
 cout<<"PROJECT";
-cout<<"\n\nMADE BY : ANUJ KUMAR";
-cout<<"\n\nSCHOOL : RYAN INTERNATIONAL SCHOOL";
+cout<<"\n\nMADE BY : Prachi Rajput";
+cout<<"\n\nCollege : Abes Engineering College";
 getch();
 
 }
